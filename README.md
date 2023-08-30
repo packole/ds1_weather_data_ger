@@ -34,9 +34,8 @@ step 3: data application
 ***
 A list of technologies used within the project:
 * [GitHub](https://github.com/packole/ds1_weather_data_ger)
-* [Git]   (via https://github.com/)
 * [Python](https://www.python.org/): Version 3.10.12
-* [Dash] (https://plotly.com/): Version 2.12.1
+* [Dash](https://plotly.com/): Version 2.12.1
 * [Pandas](https://pandas.pydata.org/): Version 2.0.3
 
 ## Installation tbd
