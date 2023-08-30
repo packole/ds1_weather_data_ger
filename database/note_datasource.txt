@@ -1,0 +1,2 @@
+source: https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/daily/kl/recent/
+downloaded: 15th june 2023
