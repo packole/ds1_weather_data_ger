@@ -8,3 +8,10 @@
         - set up folder scheme
         - completing README
         - set up release notes
+
+31.08.2023 start data preparation
+
+    set up jupyter notebook to prepare the data for the data app
+        - extracted relevant data
+        - combine weather data of diffrent cities in a combined raw csv
+        - first data exploration to analyze the data quality and quantity
