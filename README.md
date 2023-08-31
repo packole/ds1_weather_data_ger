@@ -9,7 +9,7 @@
 This repository is a data science project with following project goals:
 
   - visualize historical weather data of diffrent german cities
-  - input data should be stored in a .csv file
+  - input data should be transformed and stored in a .csv file
   - data should not be automatically updated
   - data transformation should be written in python
   - a data application with plotly dash should be developed to local host
@@ -37,6 +37,7 @@ A list of technologies used within the project:
 * [Python](https://www.python.org/): Version 3.10.12
 * [Dash](https://plotly.com/): Version 2.12.1
 * [Pandas](https://pandas.pydata.org/): Version 2.0.3
+* [Ubuntu] (https://ubuntu.com/): Version 22.04.3 LTS
 
 ## Installation tbd
 ***
