@@ -37,6 +37,7 @@ A list of technologies used within the project:
 * [Python](https://www.python.org/): Version 3.10.12
 * [Dash](https://plotly.com/): Version 2.12.1
 * [Pandas](https://pandas.pydata.org/): Version 2.0.3
+* [matplotlib](https://matplotlib.org/): Version 3.7.2
 * [Ubuntu](https://ubuntu.com/): Version 22.04.3 LTS
 
 ## Installation tbd
