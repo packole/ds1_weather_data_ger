@@ -29,6 +29,7 @@ step 2: data preparation and transformation
 step 3: data application
   - development of a data app with ploty dash framework
   - local hosting and deployment of the app via flask
+  - if there are transformation missed return to step 2
 
 ## Technologies
 ***
